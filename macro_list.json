@@ -8,6 +8,20 @@
       "level": "Bloodbath",
       "difficulty": "Extreme",
       "file": "bloodbath.ast"
+    },
+    {
+      "name": "Test",
+      "description": "Complete macro for Bloodbath by Riot",
+      "level": "Bloodbath",
+      "difficulty": "Extreme",
+      "file": "bloodbath.ast"
+    },
+    {
+      "name": "Test2",
+      "description": "Complete macro for Bloodbath by Riot",
+      "level": "Bloodbath",
+      "difficulty": "Extreme",
+      "file": "bloodbath.ast"
     }
   ]
 }
