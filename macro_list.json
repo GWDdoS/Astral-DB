@@ -1,0 +1,13 @@
+{
+  "version": "1.0",
+  "last_updated": "2026-01-19",
+  "macros": [
+    {
+      "name": "Bloodbath",
+      "description": "Complete macro for Bloodbath by Riot",
+      "level": "Bloodbath",
+      "difficulty": "Extreme",
+      "file": "bloodbath.ast"
+    }
+  ]
+}
