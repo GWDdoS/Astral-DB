@@ -11,17 +11,17 @@
     },
     {
       "name": "Test",
-      "description": "Complete macro for Bloodbath by Riot",
-      "level": "Bloodbath",
+      "description": "test",
+      "level": "Test",
       "difficulty": "Extreme",
-      "file": "bloodbath.ast"
+      "file": "test.ast"
     },
     {
       "name": "Test2",
-      "description": "Complete macro for Bloodbath by Riot",
-      "level": "Bloodbath",
+      "description": "test2",
+      "level": "Test2",
       "difficulty": "Extreme",
-      "file": "bloodbath.ast"
+      "file": "test2.ast"
     }
   ]
 }
