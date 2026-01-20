@@ -1,34 +1,17 @@
 {
   "version": "1.0",
   "last_updated": "2026-01-19",
+  "macro_count": "1",
   "macros": [
     {
-      "name": "Bloodbath",
-      "description": "Complete macro for Bloodbath by Riot",
-      "level": "Bloodbath",
-      "difficulty": "Extreme",
-      "file": "bloodbath.ast"
-    },
-    {
-      "name": "Test",
-      "description": "test",
-      "level": "Test",
-      "difficulty": "Extreme",
-      "file": "test.ast"
-    },
-    {
-      "name": "Test2",
-      "description": "test2",
-      "level": "Test2",
-      "difficulty": "Extreme",
-      "file": "test2.ast"
-    },
-    {
-      "name": "Aerial Gleam",
+      "macro_name": "Test",
+      "level_name": "Test",
+      "macro_author": "Test",
       "description": "Testing for db",
-      "level": "Aerial Gleam",
-      "difficulty": "Extreme",
-      "file": "Aerial_Gleam.ast"
+      "up_votes": "0",
+      "down_votes": "0",
+      "downloads": "0",
+      "file": "Test.ast"
     }
   ]
 }
