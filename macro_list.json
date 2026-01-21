@@ -8,10 +8,10 @@
       "level_name": "Test",
       "macro_author": "Test",
       "description": "Testing for db",
-      "up_votes": "0",
-      "down_votes": "0",
-      "downloads": "0",
-      "file": "Test.ast"
+      "up_votes": [],
+      "down_votes": [],
+      "downloads": "1",
+      "file": "macroname_author.ast"
     }
   ]
 }
