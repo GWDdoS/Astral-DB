@@ -1,19 +1,6 @@
 {
   "version": "1.0",
   "last_updated": "2026-01-19",
-  "macro_count": "1",
-  "macros": [
-    {
-      "macro_name": "Test",
-      "level_name": "Test",
-      "macro_author": "Test",
-      "description": "Testing for db",
-      "up_votes": [
-        "802347357332963348"
-      ],
-      "down_votes": [],
-      "downloads": "2",
-      "file": "macroname_author.ast"
-    }
-  ]
+  "macro_count": "0",
+  "macros": []
 }
