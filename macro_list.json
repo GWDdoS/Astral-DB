@@ -9,7 +9,9 @@
       "macro_author": "Test",
       "description": "Testing for db",
       "up_votes": [],
-      "down_votes": [],
+      "down_votes": [
+        "802347357332963348"
+      ],
       "downloads": "2",
       "file": "macroname_author.ast"
     }
