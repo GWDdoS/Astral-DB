@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "last_updated": "2026-02-28",
-  "macro_count": "2",
+  "macro_count": "1",
   "macros": [
     {
       "macro_name": "Thinking Space II",
@@ -24,16 +24,6 @@
       ],
       "downloads": "12",
       "file": "thinking_space_ii_gwddos_1769031809528.ast"
-    },
-    {
-      "macro_name": "tewst",
-      "level_name": "test",
-      "macro_author": "gwddos",
-      "description": "test",
-      "up_votes": [],
-      "down_votes": [],
-      "downloads": 0,
-      "file": "tewst_gwddos_1772315175055.ast"
     }
   ]
 }
