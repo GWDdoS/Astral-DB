@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "last_updated": "2026-02-28",
-  "macro_count": "1",
+  "last_updated": "2026-03-02",
+  "macro_count": "2",
   "macros": [
     {
       "macro_name": "Thinking Space II",
@@ -24,6 +24,16 @@
       ],
       "downloads": "12",
       "file": "thinking_space_ii_gwddos_1769031809528.ast"
+    },
+    {
+      "macro_name": "Luua Tron",
+      "level_name": "Luua Tron",
+      "macro_author": "gwddos",
+      "description": "Converted macro by mwc94087. Current top 1 SLL",
+      "up_votes": [],
+      "down_votes": [],
+      "downloads": 0,
+      "file": "luua_tron_gwddos_1772418696728.ast"
     }
   ]
 }
