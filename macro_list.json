@@ -9,11 +9,12 @@
       "macro_author": "Mig",
       "description": "No description provided.",
       "up_votes": [
-        "1367517981264838777",
         "1077768941839061113",
         "802347357332963348"
       ],
-      "down_votes": [],
+      "down_votes": [
+        "1367517981264838777"
+      ],
       "downloads": "2",
       "file": "mute_evasion_gwddos_1772510601371.ast"
     }
