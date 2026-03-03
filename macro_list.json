@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "last_updated": "2026-03-03",
-  "macro_count": "4",
+  "macro_count": "5",
   "macros": [
     {
       "macro_name": "Thinking Space II",
@@ -59,6 +59,16 @@
       "down_votes": [],
       "downloads": "1",
       "file": "mute_evasion_gwddos_1772499048060.ast"
+    },
+    {
+      "macro_name": "Rain 2.2",
+      "level_name": "RAIN",
+      "macro_author": "malbacoo",
+      "description": "ILL Updated 2.2 version of Rain",
+      "up_votes": [],
+      "down_votes": [],
+      "downloads": 0,
+      "file": "rain_2_2_malbacoo_1772502370305.ast"
     }
   ]
 }
