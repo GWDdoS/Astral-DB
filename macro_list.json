@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "last_updated": "2026-03-03",
-  "macro_count": "3",
+  "macro_count": "4",
   "macros": [
     {
       "macro_name": "Thinking Space II",
@@ -47,6 +47,16 @@
       "down_votes": [],
       "downloads": 0,
       "file": "defeated_circles__diamondman__1772498897279.ast"
+    },
+    {
+      "macro_name": "Mute Evasion",
+      "level_name": "Mute Evasion",
+      "macro_author": "gwddos",
+      "description": "This level; Converted and botted by mig",
+      "up_votes": [],
+      "down_votes": [],
+      "downloads": 0,
+      "file": "mute_evasion_gwddos_1772499048060.ast"
     }
   ]
 }
