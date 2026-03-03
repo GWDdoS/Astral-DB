@@ -1,20 +1,8 @@
 {
   "version": "1.0",
   "last_updated": "2026-03-03",
-  "macro_count": "3",
+  "macro_count": "2",
   "macros": [
-    {
-      "macro_name": "Luua Tron",
-      "level_name": "Luua Tron",
-      "macro_author": "gwddos",
-      "description": "Converted macro by mwc94087. Current top 1 SLL",
-      "up_votes": [],
-      "down_votes": [
-        "1276947788168691826"
-      ],
-      "downloads": 0,
-      "file": "luua_tron_gwddos_1772418696728.ast"
-    },
     {
       "macro_name": "Mute Evasion",
       "level_name": "Mute Evasion",
