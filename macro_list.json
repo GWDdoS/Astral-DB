@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "last_updated": "2026-03-03",
-  "macro_count": "4",
+  "macro_count": "3",
   "macros": [
     {
       "macro_name": "Luua Tron",
@@ -14,19 +14,6 @@
       ],
       "downloads": 0,
       "file": "luua_tron_gwddos_1772418696728.ast"
-    },
-    {
-      "macro_name": "Defeated Circles",
-      "level_name": "Defeated Circles",
-      "macro_author": "_diamondman_",
-      "description": "defeated circles with swag route",
-      "up_votes": [
-        "1367517981264838777",
-        "1041118954573275156"
-      ],
-      "down_votes": [],
-      "downloads": 0,
-      "file": "defeated_circles__diamondman__1772498897279.ast"
     },
     {
       "macro_name": "Mute Evasion",
