@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "last_updated": "2026-03-03",
-  "macro_count": "1",
+  "last_updated": "2026-03-04",
+  "macro_count": "2",
   "macros": [
     {
       "macro_name": "Mute Evasion",
@@ -17,6 +17,16 @@
       ],
       "downloads": "2",
       "file": "mute_evasion_gwddos_1772510601371.ast"
+    },
+    {
+      "macro_name": "Rain",
+      "level_name": "Rain",
+      "macro_author": "Malvacoo",
+      "description": "No description provided.",
+      "up_votes": [],
+      "down_votes": [],
+      "downloads": 0,
+      "file": "rain_gwddos_1772594111285.ast"
     }
   ]
 }
