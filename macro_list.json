@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "last_updated": "2026-03-07",
-  "macro_count": "2",
+  "last_updated": "2026-03-09",
+  "macro_count": "3",
   "macros": [
     {
       "macro_name": "Rain",
@@ -27,6 +27,16 @@
       "down_votes": [],
       "downloads": 0,
       "file": "formosa_lolygd__1772852676789.ast"
+    },
+    {
+      "macro_name": "Mute Evasion",
+      "level_name": "Mute Evasion",
+      "macro_author": "Mig",
+      "description": "That one ill level",
+      "up_votes": [],
+      "down_votes": [],
+      "downloads": 0,
+      "file": "mute_evasion_gwddos_1773016109739.ast"
     }
   ]
 }
