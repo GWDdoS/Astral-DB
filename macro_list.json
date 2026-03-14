@@ -55,11 +55,12 @@
       "level_name": "Everywhere at the end of time",
       "macro_author": "Melting Ice",
       "description": "A test for converting a macro with a large length for astral. Converted from 84kb to 52kb. Will i check to see if it works? Hell no",
-      "up_votes": [],
+      "up_votes": [
+        "802347357332963348"
+      ],
       "down_votes": [
         "1246510881307885651",
-        "849413863124238357",
-        "802347357332963348"
+        "849413863124238357"
       ],
       "downloads": "2",
       "file": "eatot26__133208337__gwddos_1773289672940.ast"
