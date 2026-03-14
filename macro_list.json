@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "last_updated": "2026-03-14",
-  "macro_count": "5",
+  "macro_count": "6",
   "macros": [
     {
       "macro_name": "Rain",
@@ -74,6 +74,16 @@
       "down_votes": [],
       "downloads": 0,
       "file": "realistik_phenomenal_kiwi_36427_1773505333004.ast"
+    },
+    {
+      "macro_name": "Sakupen Hell",
+      "level_name": "Sakupen Hell",
+      "macro_author": "GWDdoS",
+      "description": "No description provided.",
+      "up_votes": [],
+      "down_votes": [],
+      "downloads": 0,
+      "file": "sakupen_hell_gwddos_1773509618342.ast"
     }
   ]
 }
