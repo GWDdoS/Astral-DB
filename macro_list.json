@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "last_updated": "2026-03-15",
-  "macro_count": "11",
+  "macro_count": "12",
   "macros": [
     {
       "macro_name": "Rain",
@@ -137,6 +137,16 @@
       "down_votes": [],
       "downloads": 0,
       "file": "pplllife_gwddos_1773598931715.ast"
+    },
+    {
+      "macro_name": "suffer",
+      "level_name": "SUFFER",
+      "macro_author": "scarlet",
+      "description": "Ram Patching: No | ID: 115114568 | Converted silicate macro",
+      "up_votes": [],
+      "down_votes": [],
+      "downloads": 0,
+      "file": "suffer_mefistic_1773609621342.ast"
     }
   ]
 }
