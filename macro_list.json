@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "last_updated": "2026-03-14",
-  "macro_count": "6",
+  "last_updated": "2026-03-15",
+  "macro_count": "7",
   "macros": [
     {
       "macro_name": "Rain",
@@ -86,6 +86,16 @@
       "down_votes": [],
       "downloads": 0,
       "file": "sakupen_hell_gwddos_1773509618342.ast"
+    },
+    {
+      "macro_name": "Death Moon",
+      "level_name": "Death Moon",
+      "macro_author": "Scarlet",
+      "description": "Funny game level",
+      "up_votes": [],
+      "down_votes": [],
+      "downloads": 0,
+      "file": "death_moon_gwddos_1773592916375.ast"
     }
   ]
 }
