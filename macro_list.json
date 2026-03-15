@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "last_updated": "2026-03-15",
-  "macro_count": "8",
+  "macro_count": "9",
   "macros": [
     {
       "macro_name": "Rain",
@@ -106,6 +106,16 @@
       "down_votes": [],
       "downloads": "2",
       "file": "deadlock_gwddos_1773592941442.ast"
+    },
+    {
+      "macro_name": "Imsomadgraaaaaaaaaaa",
+      "level_name": "Imsomadgraaaaaaaaaaa",
+      "macro_author": "Malbacoo",
+      "description": "Ram Patching: Yes | SLL Level | ID: 81531744 | Converted from Ybot V2",
+      "up_votes": [],
+      "down_votes": [],
+      "downloads": 0,
+      "file": "imsomadgraaaaaaaaaaa_malbacoo_1773597355403.ast"
     }
   ]
 }
