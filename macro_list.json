@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "last_updated": "2026-03-15",
-  "macro_count": "9",
+  "macro_count": "10",
   "macros": [
     {
       "macro_name": "Rain",
@@ -117,6 +117,16 @@
       "down_votes": [],
       "downloads": 0,
       "file": "imsomadgraaaaaaaaaaa_malbacoo_1773597355403.ast"
+    },
+    {
+      "macro_name": "Bloodlust",
+      "level_name": "Bloodlust",
+      "macro_author": "GWDdoS",
+      "description": "Ram Patching: No | ID: 42584142",
+      "up_votes": [],
+      "down_votes": [],
+      "downloads": 0,
+      "file": "bloodlust_gwddos_1773598103461.ast"
     }
   ]
 }
