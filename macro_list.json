@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "last_updated": "2026-03-15",
-  "macro_count": "7",
+  "macro_count": "8",
   "macros": [
     {
       "macro_name": "Rain",
@@ -96,6 +96,16 @@
       "down_votes": [],
       "downloads": 0,
       "file": "death_moon_gwddos_1773592916375.ast"
+    },
+    {
+      "macro_name": "Deadlock",
+      "level_name": "Deadlock",
+      "macro_author": "Taze",
+      "description": "No description provided.",
+      "up_votes": [],
+      "down_votes": [],
+      "downloads": 0,
+      "file": "deadlock_gwddos_1773592941442.ast"
     }
   ]
 }
