@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "last_updated": "2026-03-15",
-  "macro_count": "12",
+  "last_updated": "2026-03-27",
+  "macro_count": "13",
   "macros": [
     {
       "macro_name": "Rain",
@@ -158,6 +158,16 @@
       "down_votes": [],
       "downloads": "2",
       "file": "suffer_mefistic_1773609621342.ast"
+    },
+    {
+      "macro_name": "Aquatic Auorars",
+      "level_name": "Aquatic Auroras",
+      "macro_author": "GMDPlutonic",
+      "description": "ID: 60740290",
+      "up_votes": [],
+      "down_votes": [],
+      "downloads": 0,
+      "file": "aquatic_auorars_gwddos_1774585609290.ast"
     }
   ]
 }
