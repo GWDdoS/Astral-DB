@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "last_updated": "2026-03-27",
-  "macro_count": "13",
+  "macro_count": "12",
   "macros": [
     {
       "macro_name": "Rain",
@@ -145,19 +145,6 @@
       "down_votes": [],
       "downloads": "3",
       "file": "pplllife_gwddos_1773598931715.ast"
-    },
-    {
-      "macro_name": "suffer",
-      "level_name": "SUFFER",
-      "macro_author": "scarlet",
-      "description": "Ram Patching: No | ID: 115114568 | Converted silicate macro",
-      "up_votes": [
-        "960236731158921326",
-        "1367517981264838777"
-      ],
-      "down_votes": [],
-      "downloads": "3",
-      "file": "suffer_mefistic_1773609621342.ast"
     },
     {
       "macro_name": "Aquatic Auorars",
