@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "last_updated": "2026-04-06",
-  "macro_count": "15",
+  "macro_count": "16",
   "macros": [
     {
       "macro_name": "Rain",
@@ -212,6 +212,24 @@
       "down_votes": [],
       "downloads": "0",
       "file": "aeternus_gwddos_1775440182226.ast"
+    },
+    {
+      "upload_id": "3",
+      "macro_name": "Defeated Circles",
+      "level_name": "Defeated Circles",
+      "macro_author": "DiamondManYN",
+      "author_id": "1041118954573275156",
+      "clicks": null,
+      "id": null,
+      "ram_patching": "n",
+      "tps": "240",
+      "random_on": "null",
+      "game_version": null,
+      "description": "No description provided.",
+      "up_votes": [],
+      "down_votes": [],
+      "downloads": "0",
+      "file": "defeated_circles__diamondman__1775440638049.ast"
     }
   ]
 }
