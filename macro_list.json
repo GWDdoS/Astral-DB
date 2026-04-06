@@ -4,9 +4,17 @@
   "macro_count": "16",
   "macros": [
     {
+      "upload_id": null,
       "macro_name": "Rain",
       "level_name": "Rain",
-      "macro_author": "Malbacoo",
+      "macro_author": "malbacoo",
+      "author_id": "1241862272234688523",
+      "clicks": null,
+      "id": null,
+      "ram_patching": null,
+      "tps": null,
+      "random_on": null,
+      "game_version": null,
       "description": "No description provided.",
       "up_votes": [
         "849413863124238357",
@@ -24,9 +32,17 @@
       "file": "rain_gwddos_1772594111285.ast"
     },
     {
+      "upload_id": null,
       "macro_name": "Formosa",
       "level_name": "92796375",
-      "macro_author": "loliGD",
+      "macro_author": "lolygd.",
+      "author_id": "643972393647210507",
+      "clicks": null,
+      "id": "92796375",
+      "ram_patching": null,
+      "tps": null,
+      "random_on": null,
+      "game_version": null,
       "description": "This macro only works if youre using speedhack at 0.1x, what i think it might be is some kind of lag when fps switching.",
       "up_votes": [
         "802347357332963348",
@@ -43,9 +59,17 @@
       "file": "formosa_lolygd__1772852676789.ast"
     },
     {
+      "upload_id": null,
       "macro_name": "Mute Evasion",
       "level_name": "Mute Evasion",
-      "macro_author": "Mig",
+      "macro_author": "1v116",
+      "author_id": "1084171255734874113",
+      "clicks": null,
+      "id": null,
+      "ram_patching": null,
+      "tps": null,
+      "random_on": null,
+      "game_version": null,
       "description": "That one ill level",
       "up_votes": [
         "802347357332963348",
@@ -58,9 +82,17 @@
       "file": "mute_evasion_gwddos_1773016109739.ast"
     },
     {
+      "upload_id": null,
       "macro_name": "EATOT26 [133208337]",
       "level_name": "Everywhere at the end of time",
-      "macro_author": "Melting Ice",
+      "macro_author": "meltinglce",
+      "author_id": "536309468967993375",
+      "clicks": null,
+      "id": "133208337",
+      "ram_patching": null,
+      "tps": null,
+      "random_on": null,
+      "game_version": null,
       "description": "A test for converting a macro with a large length for astral. Converted from 84kb to 52kb. Will i check to see if it works? Hell no",
       "up_votes": [
         "802347357332963348"
@@ -73,9 +105,17 @@
       "file": "eatot26__133208337__gwddos_1773289672940.ast"
     },
     {
+      "upload_id": null,
       "macro_name": "Realistik",
       "level_name": "Realistik",
-      "macro_author": "KUB",
+      "macro_author": "phenomenal_kiwi_36427",
+      "author_id": "1190304500255309918",
+      "clicks": null,
+      "id": null,
+      "ram_patching": null,
+      "tps": null,
+      "random_on": null,
+      "game_version": null,
       "description": "(I didn’t tested if it’s working)(converted)",
       "up_votes": [
         "1276947788168691826"
@@ -85,9 +125,17 @@
       "file": "realistik_phenomenal_kiwi_36427_1773505333004.ast"
     },
     {
+      "upload_id": null,
       "macro_name": "Sakupen Hell",
       "level_name": "Sakupen Hell",
-      "macro_author": "GWDdoS",
+      "macro_author": "gwddos",
+      "author_id": "802347357332963348",
+      "clicks": null,
+      "id": null,
+      "ram_patching": null,
+      "tps": null,
+      "random_on": null,
+      "game_version": null,
       "description": "No description provided.",
       "up_votes": [],
       "down_votes": [],
@@ -95,9 +143,17 @@
       "file": "sakupen_hell_gwddos_1773509618342.ast"
     },
     {
+      "upload_id": null,
       "macro_name": "Death Moon",
       "level_name": "Death Moon",
-      "macro_author": "Scarlet",
+      "macro_author": "mefistic",
+      "author_id": "960236731158921326",
+      "clicks": null,
+      "id": null,
+      "ram_patching": null,
+      "tps": null,
+      "random_on": null,
+      "game_version": null,
       "description": "Funny game level",
       "up_votes": [],
       "down_votes": [],
@@ -105,9 +161,17 @@
       "file": "death_moon_gwddos_1773592916375.ast"
     },
     {
+      "upload_id": null,
       "macro_name": "Deadlocked",
       "level_name": "Deadlocked",
-      "macro_author": "Taze",
+      "macro_author": "kkman202",
+      "author_id": null,
+      "clicks": null,
+      "id": null,
+      "ram_patching": null,
+      "tps": null,
+      "random_on": null,
+      "game_version": null,
       "description": "No description provided.",
       "up_votes": [],
       "down_votes": [],
@@ -115,9 +179,17 @@
       "file": "deadlock_gwddos_1773592941442.ast"
     },
     {
+      "upload_id": null,
       "macro_name": "Imsomadgraaaaaaaaaaa",
       "level_name": "Imsomadgraaaaaaaaaaa",
-      "macro_author": "Malbacoo",
+      "macro_author": "malbacoo",
+      "author_id": "1241862272234688523",
+      "clicks": null,
+      "id": "81531744",
+      "ram_patching": "y",
+      "tps": null,
+      "random_on": null,
+      "game_version": null,
       "description": "Ram Patching: Yes | SLL Level | ID: 81531744 | Converted from Ybot V2",
       "up_votes": [
         "802347357332963348",
@@ -128,9 +200,17 @@
       "file": "imsomadgraaaaaaaaaaa_malbacoo_1773597355403.ast"
     },
     {
+      "upload_id": null,
       "macro_name": "Bloodlust",
       "level_name": "Bloodlust",
-      "macro_author": "GWDdoS",
+      "macro_author": "gwddos",
+      "author_id": "802347357332963348",
+      "clicks": null,
+      "id": "42584142",
+      "ram_patching": "n",
+      "tps": null,
+      "random_on": null,
+      "game_version": null,
       "description": "Ram Patching: No | ID: 42584142",
       "up_votes": [],
       "down_votes": [],
@@ -138,9 +218,17 @@
       "file": "bloodlust_gwddos_1773598103461.ast"
     },
     {
+      "upload_id": null,
       "macro_name": "PPLLLife",
       "level_name": "PPLLLife",
-      "macro_author": "GWDdoS",
+      "macro_author": "gwddos",
+      "author_id": "802347357332963348",
+      "clicks": null,
+      "id": null,
+      "ram_patching": "n",
+      "tps": null,
+      "random_on": null,
+      "game_version": null,
       "description": "Ram Patching: No | ID: GMD (240 Fix) | Converted ybot macro | Noclip for the final wall",
       "up_votes": [
         "802347357332963348"
@@ -150,9 +238,17 @@
       "file": "pplllife_gwddos_1773598931715.ast"
     },
     {
+      "upload_id": null,
       "macro_name": "Aquatic Auorars",
       "level_name": "Aquatic Auroras",
-      "macro_author": "GMDPlutonic",
+      "macro_author": "gmp_for_life3",
+      "author_id": "1276947788168691826",
+      "clicks": null,
+      "id": "60740290",
+      "ram_patching": null,
+      "tps": null,
+      "random_on": null,
+      "game_version": null,
       "description": "ID: 60740290",
       "up_votes": [
         "1276947788168691826"
@@ -160,20 +256,6 @@
       "down_votes": [],
       "downloads": "1",
       "file": "aquatic_auorars_gwddos_1774585609290.ast"
-    },
-    {
-      "macro_name": "Stereo Madness",
-      "level_name": "1",
-      "macro_author": "Robtop",
-      "description": "No description provided.",
-      "up_votes": [
-        "1424038029382652016"
-      ],
-      "down_votes": [
-        "837555738322141194"
-      ],
-      "downloads": 0,
-      "file": "stereo_madness_therealnawok_1774655261740.ast"
     },
     {
       "upload_id": "1",
