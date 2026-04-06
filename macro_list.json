@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "last_updated": "2026-04-06",
-  "macro_count": "15",
+  "macro_count": "14",
   "macros": [
     {
       "macro_name": "Rain",
@@ -194,24 +194,6 @@
       "down_votes": [],
       "downloads": "0",
       "file": "eman_adventures_gwddos_1775438867969.ast"
-    },
-    {
-      "upload_id": "2",
-      "macro_name": "Aeternus",
-      "level_name": "Aeternus",
-      "macro_author": "gwddos",
-      "author_id": "802347357332963348",
-      "clicks": null,
-      "id": null,
-      "ram_patching": "n",
-      "tps": "60.0",
-      "random_on": "1",
-      "game_version": "2.208",
-      "description": "That one Riot Level (note the macro is 240 TPS not actually 60)",
-      "up_votes": [],
-      "down_votes": [],
-      "downloads": "0",
-      "file": "aeternus_gwddos_1775439851938.ast"
     }
   ]
 }
